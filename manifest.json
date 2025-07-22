@@ -1,6 +1,6 @@
 {
-  "name": "vAmigaNet",
-  "short_name": "vAmigaNet",
+  "name": "vAmigaDOS",
+  "short_name": "vAmigaDOS",
   "start_url": "/",
   "scope": ".",
   "display": "fullscreen",
